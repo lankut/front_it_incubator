@@ -22,6 +22,8 @@
 .package.json
 .README.md
 .gitignore
+*.json
+*.md
 
 npm-debug.log*
 yarn-debug.log*
